@@ -1,0 +1,23 @@
+{
+  "name": "miniqueryremake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowfiend2509/miniqueryremake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowfiend2509/miniqueryremake/issues"
+  },
+  "homepage": "https://github.com/shadowfiend2509/miniqueryremake#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
